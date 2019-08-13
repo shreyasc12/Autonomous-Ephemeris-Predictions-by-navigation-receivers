@@ -1,6 +1,6 @@
 # Autonomous Ephemeris Predictions by navigation receivers - Smart India Hackathon Project
 
-This Problem Statement was given by ISRO(Indian Space Research Organization) in Smart India Hackathon(India's Largest Hackathon) and our Team Won the 1st Prize in Smart India Hackathon
+This Problem Statement was given by ISRO(Indian Space Research Organization) in Smart India Hackathon(India's Largest Hackathon) and our Team Won the 1st Prize in Smart India Hackathon.
 
 # Problem Statement:
 
